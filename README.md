@@ -11,6 +11,8 @@
 - My pseudo is 𝒂𝒏𝒐𝒏𝒚𝒎𝒆#4747
 
 
+<a href=”https://www.tiktok.com/@shadow_osint"><img align=”left” src=”https://raw.githubusercontent.com/anonymeGithub/photos/main/tiktok/icon.svg" alt=”icon tiktok” width=”21px”/></a>
+
 ![react icon](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
                                                                                                                           
