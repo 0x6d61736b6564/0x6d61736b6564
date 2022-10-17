@@ -12,11 +12,15 @@
 
 # BADGES
 
-<div id="badges">
+<div id="tiktok">
 <a href="https://www.tiktok.com/@shadow_osint">
 <img src="https://img.shields.io/badge/Tiktok-blue?style=for-the-badge&logo=Tiktok&logoColor=white" alt="Tiktok Badge"/>
 </a>
 
+<div id="discord">
+<a href="https://discordapp.com/users/823981303950606357">
+<img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=purple" alt="Discord Badge"/>
+</a>
 
 ![react icon](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) 
   
