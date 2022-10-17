@@ -23,8 +23,6 @@
 </a>
   
 ![Repository Stats](https://github-readme-stats.vercel.app/api?username=anonymeGithub&show_icons=true)
-
-![react icon](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) 
   
   
   
