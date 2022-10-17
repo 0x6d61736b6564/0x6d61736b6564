@@ -6,7 +6,7 @@
 -I have discord
 
 #DISCORD
--I am active on discord
+- I am active on discord
 -My pseudo is 𝒂𝒏𝒐𝒏𝒚𝒎𝒆#4747
 
 
