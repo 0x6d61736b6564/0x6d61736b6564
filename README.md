@@ -21,6 +21,7 @@
 <a href="https://discordapp.com/users/823981303950606357">
 <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord&logoColor=purple" alt="Discord Badge"/>
 </a>
+  
 ![Repository Stats](https://github-readme-stats.vercel.app/api?username=anonymeGithub&show_icons=true)
 
 ![react icon](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) 
