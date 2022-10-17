@@ -10,7 +10,7 @@
 - I am active on discord
 - My pseudo is 𝒂𝒏𝒐𝒏𝒚𝒎𝒆#4747
 
-# SOCIAL
+
 
 <div id="badges">
 <a href="https://www.tiktok.com/@shadow_osint">
