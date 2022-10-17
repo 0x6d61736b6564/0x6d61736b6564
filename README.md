@@ -22,4 +22,8 @@
 ![Repository Stats](https://github-readme-stats.vercel.app/api?username=anonymeGithub&show_icons=true)
   
   
-  
+<style>
+img {
+  border-radius: 10%;
+}
+</style>  
