@@ -12,6 +12,6 @@
 - 
 
 # MY ACCOUNTS
-- my tiktok
+- my 
 ![tiktok](https://www.tiktok.com/@shadow_osint)                  
                                                                                                                           
