@@ -10,10 +10,15 @@
 - I am active on discord
 - My pseudo is 𝒂𝒏𝒐𝒏𝒚𝒎𝒆#4747
 
-# badges
+# BADGES
 
 <div id="badges">
 <a href="https://www.tiktok.com/@shadow_osint">
 <img src="https://img.shields.io/badge/Tiktok-blue?style=for-the-badge&logo=Tiktok&logoColor=white" alt="Tiktok Badge"/>
 </a>
-                                                                                                                          
+
+
+![react icon](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) 
+  
+  
+  
