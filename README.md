@@ -1,5 +1,5 @@
 <p align=”center”>
-<img width=”150" height=”150" src="https://avatars.githubusercontent.com/u/116027312?s=400&u=83f1e1511eb1fa417a6aed1d039ea198484d4385&v=4" alt=”profile picture”> </p>
+<img width=”100" height=”100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Sfgbqcg35rCru0YB-IQwxgHaD4%26pid%3DApi&f=1&ipt=8a1f26e0df4fc3a24ba925c77b4647078b0816da6d4693e81bab8f0caa50a291&ipo=images" alt=”github picture”> </p>
 
 # PRESENTATION
 - I'am anonyme
