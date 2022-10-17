@@ -24,7 +24,7 @@
   
 
 <style>
-img {
+  img {
   border-radius: 10%;
 }
 </style>
