@@ -11,6 +11,7 @@
 - My pseudo is 𝒂𝒏𝒐𝒏𝒚𝒎𝒆#4747
 - 
 
-![react icon](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) <p align=”center”> <img width=”150" height=”150" src="https://www.tiktok.com/@shadow_osint" alt=tiktok> </p>
+![react icon](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) 
+<p align=”center”> <img width=”150" height=”150" src="https://www.tiktok.com/@shadow_osint" alt=tiktok> </p>
                                                                                                                           
                                                                                                                           
