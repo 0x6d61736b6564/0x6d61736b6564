@@ -12,5 +12,5 @@
 - 
 
 ![react icon](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) 
-![tiktok link](https://www.tiktok.com/@shadow_osint)                                   
+<a href=“https://www.tiktok.com/@shadow_osint”>Tiktok</a>                                
                                                                                                                           
