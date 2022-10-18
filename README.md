@@ -6,7 +6,7 @@
 
 # DISCORD
 - I am active on discord
-- My pseudo is 𝒂𝒏𝒐𝒏𝒚𝒎𝒆#4747
+- I accept all dm
 
 > I'm new on discord & github
 
