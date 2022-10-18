@@ -1,6 +1,6 @@
 
 # PRESENTATION
-- I'am anonyme
+- I'am opsec
 - I have a age
 - I have discord
 
