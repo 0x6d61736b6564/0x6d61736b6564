@@ -8,6 +8,8 @@
 - I am active on discord
 - My pseudo is 𝒂𝒏𝒐𝒏𝒚𝒎𝒆#4747
 
+> I'm new on discord & github
+
 # BADGES
 
 <a href="https://www.tiktok.com/@shadow_osint">
