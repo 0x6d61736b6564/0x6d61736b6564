@@ -1,6 +1,6 @@
 
 # PRESENTATION
-- I'am opsec
+- I love opsec
 - I have a age
 - I have discord
 
