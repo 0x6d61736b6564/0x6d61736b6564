@@ -7,8 +7,11 @@
 # DISCORD
 - I am active on discord
 - I accept all dm
+- My discord : 0xMasked#1237
 
-> I'm new on discord & github
+# BONUS
+> I'm new github
+
 
 # BADGES
 
