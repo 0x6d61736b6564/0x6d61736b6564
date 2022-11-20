@@ -9,7 +9,7 @@
 - My discord : 0xMasked#1237
 
 # BONUS
-> I'm new github
+> I'm new on github
 
 
 # BADGES
