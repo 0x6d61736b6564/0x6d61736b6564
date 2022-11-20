@@ -1,8 +1,7 @@
 
 # PRESENTATION
-- I love opsec
+- I have a name
 - I have a age
-- I have discord
 
 # DISCORD
 - I am active on discord
