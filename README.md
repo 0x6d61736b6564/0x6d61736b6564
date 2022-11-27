@@ -8,10 +8,6 @@
 - I accept all dm
 - My discord : 0xMasked#1237
 
-# BONUS
-> I'm new on github
-
-
 # BADGES
 
 <a href="https://www.tiktok.com/@shadow_osint">
