@@ -13,7 +13,7 @@
 <a href="https://www.tiktok.com/@shadow_osint">
 <img src="https://img.shields.io/badge/Tiktok-blue?style=for-the-badge&logo=Tiktok&logoColor=white" alt="Tiktok Badge"/>
 </a>
-<a href="https://discordapp.com/users/823981303950606357">
+<a href="https://discordapp.com/users/1034074588432310272">
 <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord&logoColor=purple" alt="Discord Badge"/>
 </a>
   
