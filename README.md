@@ -10,7 +10,7 @@
 
 # BADGES
 
-<a href="https://www.tiktok.com/@shadow_osint">
+<a href="https://www.tiktok.com/@masked_tiktok">
 <img src="https://img.shields.io/badge/Tiktok-blue?style=for-the-badge&logo=Tiktok&logoColor=white" alt="Tiktok Badge"/>
 </a>
 <a href="https://discordapp.com/users/1034074588432310272">
