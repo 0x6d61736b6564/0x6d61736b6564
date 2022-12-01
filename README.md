@@ -5,8 +5,7 @@
 
 # DISCORD
 - I am active on discord
-- I accept all dm
-- My discord : 0xMasked#1237
+- I accept every dm
 
 # BADGES
 
