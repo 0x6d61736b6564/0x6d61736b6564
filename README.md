@@ -16,5 +16,5 @@
 <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord&logoColor=purple" alt="Discord Badge"/>
 </a>
   
-![Repository Stats](https://github-readme-stats.vercel.app/api?username=masked-github&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masked-github&layout=compact)](https://github.com/masked-github/github-readme-stats)
+![Repository Stats](https://github-readme-stats.vercel.app/api?username=0x6d61736b6564&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x6d61736b6564&layout=compact)](https://github.com/0x6d61736b6564/github-readme-stats)
